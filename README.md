@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Anaïs%20Saoudi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M1%20Computer%20Networks%20%26%20Systems%20·%20Paris-Saclay&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=150&text=Anaïs%20Saoudi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-sadoudi-396584268/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anais.sadoudi@etud.univ-evry.fr)
@@ -10,7 +10,7 @@
 
 I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Saclay, currently doing a research internship at the **IBISC Laboratory**.
 
-- 🔭 Working on a bioinformatics web platform for RNA 3D structure prediction — [BEPS / Helixia](https://github.com/SadoudiAnais)
+- 🔭 Working on a bioinformatics web platform for RNA 3D structure prediction (https://github.com/SadoudiAnais)
 - 🏆 Participated in **D4Gen Hackathon 2026** @ Genopole Évry — team HOPPERS (AIoT + Blockchain EHR system)
 - ⚡ All of my projects are available at [my repositories](https://github.com/SadoudiAnais?tab=repositories)
 - 📫 How to reach me: **anais.saoudi@etud.univ-evry.fr**
@@ -37,6 +37,7 @@ I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Sa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 **Networks & Protocols**
 
