@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=150&text=Anaïs%20Saoudi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
+![header](./github_header_anais_sadoudi_v3.svg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-sadoudi-396584268/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anais.sadoudi@etud.univ-evry.fr)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadoudiAnais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anais-saoudi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anais.saoudi@etud.univ-evry.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadoudiAnais)
 
 ---
 
@@ -10,10 +10,9 @@
 
 I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Saclay, currently doing a research internship at the **IBISC Laboratory**.
 
-- 🔭 Working on a bioinformatics web platform for RNA 3D structure prediction (https://github.com/SadoudiAnais)
-- 🏆 Participated in **D4Gen Hackathon 2026** @ Genopole Évry — team HOPPERS (AIoT + Blockchain EHR system)
+- 🔭 Working on a bioinformatics web platform for RNA 3D structure prediction 
 - ⚡ All of my projects are available at [my repositories](https://github.com/SadoudiAnais?tab=repositories)
-- 📫 How to reach me: **anais.saoudi@etud.univ-evry.fr**
+- 📫 How to reach me: **anais.sadoudi@etud.univ-evry.fr**
 
 ---
 
@@ -51,15 +50,25 @@ I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Sa
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 ---
 
-### 🔥 My Stats :
+### 🧪 Currently working on :
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SadoudiAnais&theme=vision-friendly-dark&hide_border=true)](https://github.com/SadoudiAnais)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧬 **BEPS** | Bioinformatics platform for RNA 3D structure prediction & analysis | React · TypeScript · FastAPI · MongoDB |
+| 🌐 **ARDA Platform** | Web interface for the BEPS toolbox | React Router v7 · Vite · TypeScript |
+| 🔗 **HOPPERS** | AIoT + Blockchain EHR system — D4Gen Hackathon 2026 | CrewAI · MCP · ZKP · SUI Blockchain |
+
+---
+
+<!--### 🔥 My Stats :
+
+// [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SadoudiAnais&theme=vision-friendly-dark&hide_border=true)](https://github.com/SadoudiAnais)
 
 [![Anais's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadoudiAnais&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/SadoudiAnais)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadoudiAnais&layout=compact&theme=github_dark&hide_border=true)](https://github.com/SadoudiAnais)
 
----
+--->
 
 ### 🚀 What's next :
 
