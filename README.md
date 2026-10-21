@@ -1,7 +1,10 @@
 ![header](./github_header_anais_sadoudi_v3.svg)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=LLM+agents+for+IoT+orchestration;Autonomic+%26+self-managing+networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=LLM+agents+for+IoT+orchestratio    n;Autonomic+%26+self-managing+networks" alt="Typing SVG" />
 </p>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-sadoudi-396584268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anais.sadoudi@etud.univ-evry.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadoudiAnais)
