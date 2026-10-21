@@ -62,16 +62,16 @@ I am an M2 student in Computer Networks & Systems at Université d'Évry Paris-S
 | **LLMThings** 🔒|Semantic routing & multi-agent LLM orchestration for IoT |CrewAI · MCP · MQTT · ESP32 · Docker|
 | **NetOps Agent** |LLM agent diagnosing network failures on a virtualized network | CrewAI · MCP · FRR · containerlab |
 | **iot-secure-dashboard** |Real-time IoT dashboard over secured MQTT | MQTT · TLS · Docker |
+
 ---
 
 ### Past projects :
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-
-| 🧬 **BEPS** 🔒| Bioinformatics platform for RNA 3D structure prediction & analysis | React · TypeScript · FastAPI · MongoDB |
-| 🌐 **ARDA Platform** 🔒 | Web interface for the BEPS toolbox | React Router v7 · Vite · TypeScript |
-| 🔗 **HOPPERS** | AIoT + Blockchain EHR system — D4Gen Hackathon 2026 | CrewAI · MCP · ZKP · SUI Blockchain |
+| 🧬 **BEPS** 🔒|Bioinformatics platform for RNA 3D structure prediction & analysis | React · TypeScript · FastAPI · MongoDB |
+| 🌐 **ARDA Platform** 🔒|Web interface for the BEPS toolbox | React Router v7 · Vite · TypeScript |
+| 🔗 **HOPPERS** |AIoT + Blockchain EHR system — D4Gen Hackathon 2026 | CrewAI · MCP · ZKP · SUI Blockchain |
 
 ---
 <sub>🔒 Research / lab code, kept private.</sub>
