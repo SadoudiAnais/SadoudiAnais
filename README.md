@@ -1,5 +1,7 @@
 ![header](./github_header_anais_sadoudi_v3.svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=LLM+agents+for+IoT+orchestration;Autonomic+%26+self-managing+networks" alt="Typing SVG" />
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-sadoudi-396584268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anais.sadoudi@etud.univ-evry.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadoudiAnais)
@@ -7,11 +9,11 @@
 ---
 
 ### 👩‍💻 About Me :
+I am an M2 student in Computer Networks & Systems at Université d'Évry Paris-Saclay, working at the intersection of LLM agents, IoT and networks.
 
-I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Saclay, currently doing a research internship at the **IBISC Laboratory**.
-
-- 🔭 Working on a bioinformatics web platform for RNA 3D structure prediction 
-- ⚡ All of my projects are available at [my repositories](https://github.com/SadoudiAnais?tab=repositories)
+- 🔭 Building multi-agent LLM systems for IoT orchestration (CrewAI · MCP · MQTT · ESP32)
+- 🧪 Previously: research internship at the IBISC Laboratory (Université Paris-Saclay)
+- 🏆 Best Presentation Award, JDSE 2026
 - 📫 How to reach me: **anais.sadoudi@etud.univ-evry.fr**
 
 ---
@@ -50,15 +52,28 @@ I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Sa
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)
 ---
 
-### 🧪 Currently working on :
+### Currently working on :
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧬 **BEPS** | Bioinformatics platform for RNA 3D structure prediction & analysis | React · TypeScript · FastAPI · MongoDB |
-| 🌐 **ARDA Platform** | Web interface for the BEPS toolbox | React Router v7 · Vite · TypeScript |
+| **LLMThings** 🔒|Semantic routing & multi-agent LLM orchestration for IoT |CrewAI · MCP · MQTT · ESP32 · Docker|
+| **NetOps Agent** |LLM agent diagnosing network failures on a virtualized network | CrewAI · MCP · FRR · containerlab |
+| **iot-secure-dashboard** |Real-time IoT dashboard over secured MQTT | MQTT · TLS · Docker |
+---
+
+### Past projects :
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+
+| 🧬 **BEPS** 🔒| Bioinformatics platform for RNA 3D structure prediction & analysis | React · TypeScript · FastAPI · MongoDB |
+| 🌐 **ARDA Platform** 🔒 | Web interface for the BEPS toolbox | React Router v7 · Vite · TypeScript |
 | 🔗 **HOPPERS** | AIoT + Blockchain EHR system — D4Gen Hackathon 2026 | CrewAI · MCP · ZKP · SUI Blockchain |
 
 ---
+<sub>🔒 Research / lab code, kept private.</sub>
+---
+
 
 <!--### 🔥 My Stats :
 
@@ -75,6 +90,12 @@ I am a M1 student in Computer Networks & Systems at Université d'Évry Paris-Sa
 - 🌐 Explore **IoT security** and heterogeneous network architectures
 - 🔗 Go deeper into **Blockchain** & ZKP (started at D4Gen Hackathon 2026)
 - 📝 And somewhere in between — I write poetry ✨
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadoudiAnais/SadoudiAnais/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/SadoudiAnais/SadoudiAnais/output/snake.svg" />
+</picture>
 
 ---
 
